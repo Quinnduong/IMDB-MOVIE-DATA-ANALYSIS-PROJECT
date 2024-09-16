@@ -32,10 +32,13 @@ Summary: There is an effect by Genre on Revenue with a f-stat value of 56.282518
 See more details in Final Project.pdf
 
 Feature Engineering: Creating new relevant features and transforming existing ones to improve prediction accuracy.
+
 <img width="615" alt="Screenshot 2024-09-16 at 12 47 45 AM" src="https://github.com/user-attachments/assets/491351d1-b426-4880-bd22-b6563d66c44f">
 
 Model Training and Testing: Applying machine learning algorithms such as Linear Regression, Bayesian Linear Regression, and Decision Forest Regression to predict movie revenue.
+
 <img width="647" alt="Screenshot 2024-09-16 at 12 48 31 AM" src="https://github.com/user-attachments/assets/6a514b24-278f-4c64-8584-e23b468accba">
+
 <img width="645" alt="Screenshot 2024-09-16 at 12 49 28 AM" src="https://github.com/user-attachments/assets/7b607db3-e7a5-4392-b7ec-59309898f05a">
 
 Model Evaluation and Fine-tune: Comparing model performance using R-squared and RMSE values to select the best model for predicting revenue.
@@ -43,6 +46,7 @@ Model Evaluation and Fine-tune: Comparing model performance using R-squared and 
 Visualization: Tableau Dashboard
 
 A comprehensive dashboard was created to visualize key findings from the analysis, including:
+
 <img width="601" alt="Screenshot 2024-09-16 at 12 46 13 AM" src="https://github.com/user-attachments/assets/900b524f-4015-44ac-ac9a-40153d9ba115">
 
 Key Findings
