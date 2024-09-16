@@ -18,13 +18,19 @@ The main objective of this project is to predict movie revenue using independent
 Data Preprocessing: Cleaning the dataset by handling missing values, normalizing variables, and ensuring data consistency.
 
 Exploratory Data Analysis (EDA): Understanding the relationships between movie features (e.g., budget, score, genre) and revenue through visualizations and statistical testing.
+
 Budget
+
 Ho: We expect that Budget will have no effect on Revenue. 
+
 <img width="642" alt="Screenshot 2024-09-16 at 12 58 57 AM" src="https://github.com/user-attachments/assets/4b781326-b308-463a-94e1-7cce3d40ca2f">
-Summary: There is a strong effect of Budget on Revenue that is very reliable. We tested all non-
-linear transformations and found that Polynomial produced the best R2 value of 0.48948 and a p-value of < 0.0001 (reject Null Hypothesis).
+
+Summary: There is a strong effect of Budget on Revenue that is very reliable. We tested all non-linear transformations and found that Polynomial produced the best R2 value of 0.48948 and a p-value of < 0.0001 (reject Null Hypothesis).
+
 Genre
+
 Ho: We expect that there will be no effect by Genre on Revenue
+
 <img width="628" alt="Screenshot 2024-09-16 at 12 57 00 AM" src="https://github.com/user-attachments/assets/8d3dedfa-acad-461b-bdb6-612e0e754bad">
 
 Summary: There is an effect by Genre on Revenue with a f-stat value of 56.2825183 and a p-value of 0.09760088 (<0.5) -> reject Null Hypothesis. 
